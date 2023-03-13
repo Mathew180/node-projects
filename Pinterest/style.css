@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 25px;
+    font-size: 1.1rem;
+    
+}
+
+header nav .logo{
+    color: red;
+}
+
+header nav ul{
+    display: flex;
+}
+
+header nav ul li{
+    text-decoration: none;
+    list-style: none;
+    margin-left: 25px;
+}
+
+button{
+    outline: none;
+    border: 1px solid #C31952;
+    border-radius: 29px;
+    padding: 5px;
+    color: #C31952;
+}
