@@ -1,4 +1,4 @@
-// require('dotnev').config();
+//require('dotnev').config();
 require('express-async-errors')
 require('./db/connect');
 require("dotenv").config();
