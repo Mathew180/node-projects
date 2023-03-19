@@ -1,7 +1,7 @@
 //require('dotnev').config();
 require('express-async-errors')
 require('./db/connect');
-require("dotenv").config();
+require("dotenv").config(); 
 const express = require("express");
 const app = express();
 
