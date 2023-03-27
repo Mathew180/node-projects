@@ -5,7 +5,8 @@ require("dotenv").config();
 const express = require("express");
 const app = express();
 
-const connectDB = require('./db/connect');
+//*127*852#
+// const connectDB = require('./db/connect');
 
 //const notFoundMiddleware = require('./middleware/not-found');
 //const errorHandlerMiddleware = require('./middleware/error-Handler')
